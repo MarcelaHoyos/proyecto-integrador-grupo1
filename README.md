@@ -15,4 +15,4 @@ Para correr el proyecto en colab:
     4. [Clustering_K-means-Mean-shift.ipynb](https://colab.research.google.com/drive/1uCpPqGQGenTl5t8egdIWOokHO0QleP81?usp=sharing)
     5. [Clustering_K-medoids.ipynb](https://colab.research.google.com/drive/1c1d1SCK5gk-hoNU1mqGDOZCD5NymEF8k)
     6. [Regresiones.ipynb](https://colab.research.google.com/drive/1MWPymSgmgxLad6awvwetbD1i0OsAXkqy)
-- Revisar los datos en la carpeta
+- Revisar los datos en la carpeta [proyecto-integrador-data](https://drive.google.com/drive/folders/17iu1V0Y_pVUyww-RjVQoG1XtPVl-miY2?usp=sharing)
